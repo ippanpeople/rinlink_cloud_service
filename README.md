@@ -32,3 +32,4 @@ rlcsは私が構築した自宅データセンターから提供するクラウ�
 <img width="1679" alt="截圖 2023-04-10 23 49 44" src="https://user-images.githubusercontent.com/84487405/230933906-d56ff829-a43e-4611-a532-104802503036.png">
 <img width="1679" alt="截圖 2023-04-10 23 49 50" src="https://user-images.githubusercontent.com/84487405/230934358-d4b0ccf0-d18a-433b-9eb8-7b6041d0dd64.png">
 <img width="1679" alt="截圖 2023-04-10 23 50 02" src="https://user-images.githubusercontent.com/84487405/230934546-29a06749-afcc-4a7b-8f19-4e1e5f7179f9.png">
+<img width="1679" alt="截圖 2023-04-10 23 50 22" src="https://user-images.githubusercontent.com/84487405/230935322-ab020493-9f57-4deb-bffc-99bb8b788be0.png">
