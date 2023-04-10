@@ -17,6 +17,11 @@ rlcsは私が構築した自宅データセンターから提供するクラウ�
 - インフラストラクチャ：VMware Vspher + FC SAN　
 - ネットワーク：trunk port、vlan、vpn、mqtt、nas、AD server、DNS server、Nginx reverse proxy、docker
 - モニタリーダー：grafana、Prometheus、cAdvisor、node_exporter、wmi_exporter、blackbox_exporter
+- shell script
+
+## レポジトリー
+- Reverse_Proxy_Server：https://github.com/ippanpeople/Nginx_Reverse_Proxy_Server
+- モニタリーダー：https://github.com/ippanpeople/grafana.rinlink.jp
 
 ## 画像一覧
 - VMware Vspher
