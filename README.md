@@ -33,3 +33,6 @@ rlcsは私が構築した自宅データセンターから提供するクラウ�
 <img width="1679" alt="截圖 2023-04-10 23 49 50" src="https://user-images.githubusercontent.com/84487405/230934358-d4b0ccf0-d18a-433b-9eb8-7b6041d0dd64.png">
 <img width="1679" alt="截圖 2023-04-10 23 50 02" src="https://user-images.githubusercontent.com/84487405/230934546-29a06749-afcc-4a7b-8f19-4e1e5f7179f9.png">
 <img width="1679" alt="截圖 2023-04-10 23 50 22" src="https://user-images.githubusercontent.com/84487405/230935322-ab020493-9f57-4deb-bffc-99bb8b788be0.png">
+
+- AD + DNS サーバー
+<img width="1679" alt="截圖 2023-04-10 23 54 07" src="https://user-images.githubusercontent.com/84487405/230936754-a3cf66db-2706-48cc-b9c4-3a4d304ef6b8.png">
